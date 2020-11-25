@@ -1,6 +1,6 @@
 {
   "name": "cv-editor",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,5 +11,10 @@
     "next": "10.0.3",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^2.0.1"
   }
 }
